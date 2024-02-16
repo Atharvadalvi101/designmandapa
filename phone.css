@@ -7,6 +7,12 @@ html,body{
     overflow-y: hidden;
 }
 
+
+@font-face {
+    font-family: "X-SCALE";
+    src: url(X-SCALE_.TTF);
+}
+
 #navbar{
     
     justify-content: center;
@@ -53,8 +59,35 @@ html,body{
 }
 
 .homepage p{
-    font-size: 1rem;
     text-align: center;
-
 }
+
+.btn{
+    width: 490px;
+
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-items: center;
+    right: 25px;
+    top: -50px;
+
+
+
+
+
+  }
+
+
+  .button{
+
+
+    margin: 10px 24px;
+
+
+;
+    
+
+
+  }
 
