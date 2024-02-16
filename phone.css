@@ -33,7 +33,7 @@
 
 #myVideo{
 
-    object-fit: fill;
+    object-fit: cover;
 }
 
 .homepage h1{
