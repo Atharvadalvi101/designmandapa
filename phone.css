@@ -40,7 +40,7 @@ html,body{
 
 #myVideo{
 
-    object-fit: cover;
+    object-fit: fill;
 }
 
 .homepage h1{
